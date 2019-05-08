@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["tinder_web|lib/Data/data.dart","tinder_web|lib/SwipeAnimation/gesture_card_deck.dart","flutter_web|lib/material.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[]}

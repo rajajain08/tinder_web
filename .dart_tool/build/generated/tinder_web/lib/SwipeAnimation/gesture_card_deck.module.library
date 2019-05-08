@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","tinder_web|lib/SwipeAnimation/current_deck_card.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"]}
